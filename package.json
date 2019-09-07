@@ -1,0 +1,18 @@
+{
+  "name": "manhattan",
+  "version": "0.0.1",
+  "description": "Manhattan Distance",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "distance",
+    "mathematics"
+  ],
+  "author": "smiles",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
