@@ -13,6 +13,6 @@
   "author": "smiles",
   "license": "MIT",
   "dependencies": {
-    "jest": "^24.9.0"
+    "jest": "^26.1.0"
   }
 }
